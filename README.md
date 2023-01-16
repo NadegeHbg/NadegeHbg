@@ -78,6 +78,8 @@
   ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NadegeHbg&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=88A9DD&currStreakLabel=88A9DD&currStreakNum=88A9DD&dates=F12367)](https://git.io/streak-stats)
+<br>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NadegeHbg&theme=tokyonight&text_color=F12367&line_height=40&hide=css"/> </a>
 
   ---
   
