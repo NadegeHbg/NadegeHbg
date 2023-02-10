@@ -56,8 +56,6 @@
      <img src="https://img.icons8.com/nolan/512/express-js.png" title="Express" alt="Express" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="Adonis" alt="Adonis" width="40" height="40"/>
    </div>
   
   <h3>Other</h3>
