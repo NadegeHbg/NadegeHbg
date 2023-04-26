@@ -25,11 +25,11 @@
 
 ## :woman_technologist: About Me :
 
-<img src="https://user-images.githubusercontent.com/108655830/212752115-b4805ba0-7ccc-48b2-a16c-aca9abe776c0.png" width="20px" height="20px" /> I a student frontend developer @ <a href="https://becode.org/fr/apprendre/developpeur-web-junior/?gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT9bCMDO33LLF7ALoUvCMG7lpB1qeoWAklQLpj3gd-J1TEMljj2P2qMaAkzrEALw_wcB"> BeCode</a> in Brussel.
+<img src="https://user-images.githubusercontent.com/108655830/212752115-b4805ba0-7ccc-48b2-a16c-aca9abe776c0.png" width="20px" height="20px" /> I've learned web development @ <a href="https://becode.org/fr/apprendre/developpeur-web-junior/?gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT9bCMDO33LLF7ALoUvCMG7lpB1qeoWAklQLpj3gd-J1TEMljj2P2qMaAkzrEALw_wcB"> BeCode</a> in Brussel. And I'm currently doing an internship as Mobile Developer.
 
 - :telescope: I’m curious and I love to dig into the techs I'm learning.
 
-- :seedling: Currently learning React.
+- :seedling: Currently learning Android Jetpack Compose & Kotlin.
 
 - 🎥 I've started to code for the sake of my Twitch stream
 
